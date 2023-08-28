@@ -11,6 +11,10 @@ A reusable React Native component that simulates a typing animation, displaying 
 - Easily integrate it into your React Native projects.
 
 
+
+https://github.com/D1-Ay/React-Native-Typing-Animation-Component/assets/63911974/b3f7b087-d157-4b07-90bd-85f63dcf8eb0
+
+
 ## Installation
 
 Install the component with npm
